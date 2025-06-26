@@ -165,7 +165,7 @@ const API_SITES = {
      },
      yutu: {
          // api: 'https://yutuzy10.com',
-         api: 'https://apiyutu.com/api.php/providedao/vod/?ac=list',
+         api: 'https://apiyutu.com/api.php/provide/vod',
          name: '玉兔资源',
          adult: true
      },
