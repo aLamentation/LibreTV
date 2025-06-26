@@ -135,12 +135,14 @@ const API_SITES = {
          adult: true
      },
      bwzy: {
-         api: 'https://api.bwzym3u8.com',
+         // api: 'https://api.bwzym3u8.com',
+         api: 'https://bo.baiwanapi.com/?url=',
          name: '百万资源',
          adult: true
      },
      souav: {
-         api: 'https://api.souavzy.vip',
+         // api: 'https://api.souavzy.vip',
+         api: ':https://api.souavzy.vip/api.php/provide/vod/?ac=list',
          name: 'souav资源',
          adult: true
      },
@@ -155,13 +157,15 @@ const API_SITES = {
          adult: true
      },
      huangcang: {
-         api: 'https://hsckzy.vip',
+         // api: 'https://hsckzy.vip',
+         api: 'https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json/',
          name: '黄色仓库',
          adult: true,
          detail: 'https://hsckzy.vip'
      },
      yutu: {
-         api: 'https://yutuzy10.com',
+         // api: 'https://yutuzy10.com',
+         api: 'https://apiyutu.com/api.php/providedao/vod/?ac=list',
          name: '玉兔资源',
          adult: true
      },
