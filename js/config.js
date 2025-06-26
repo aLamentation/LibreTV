@@ -143,7 +143,7 @@ const API_SITES = {
      },
      souav: {
          // api: 'https://api.souavzy.vip',
-         api: ':https://api.souavzy.vip/api.php/provide/vod',
+         api: 'https://api.souavzy.vip/api.php/provide/vod',
          name: 'souav资源',
          adult: true
      },
