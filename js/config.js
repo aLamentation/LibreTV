@@ -159,10 +159,10 @@ const API_SITES = {
      // },
      huangcang: {
          // api: 'https://hsckzy.vip',
-         api: 'https://hsckzy.vip/index.php/vod/search.html',
+         api: 'https://hsckzy888.com/api.php/provide/vod/from/hsckyun',
          name: '黄色仓库',
          adult: true,
-         detail: 'https://hsckzy.vip/index.php/vod/detail/id/'
+         detail: 'https://hsckzy888.com/api.php/provide/vod/from/hsckyun'
      },
      yutu: {
          // api: 'https://yutuzy10.com',
